@@ -1,4 +1,4 @@
-**/vit_models
-**/models
-**/heatmaps
-**/DR_data_cropped_classes
+**/vit_models/
+**/models/
+**/heatmaps/
+**/DR_data_cropped_classes/
