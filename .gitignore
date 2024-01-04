@@ -2,3 +2,6 @@
 **/models/
 **/heatmaps/
 **/DR_data_cropped_classes/
+*.jpg
+*.jpeg
+*.json
