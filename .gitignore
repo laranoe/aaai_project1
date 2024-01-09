@@ -1,7 +1,7 @@
-**/vit_models/
-**/models/
-**/heatmaps/
-**/DR_data_cropped_classes/
+**/trained_vit_model/
+**/models/*
+**/heatmaps/**
+**/DR_data_cropped_classes/*
 **/.ipynb_checkpoints/
 *.jpg
 *.jpeg
